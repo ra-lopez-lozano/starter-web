@@ -16,7 +16,7 @@ This is the deployment section
 
 ## How To Contribute
 
-Giving your ideas
+Giving your ideas and for them
 
 Upload code to be reviewed
 
