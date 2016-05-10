@@ -12,4 +12,10 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is the deployment section 
+
 ## How To Contribute
+
+Giving your ideas
+
+Upload code to be reviewed
